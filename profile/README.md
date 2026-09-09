@@ -57,3 +57,10 @@ We're also working on **Eigenlux / 烛玄**, a personal assistant for developmen
 Questions, bug reports, and pull requests are welcome in the relevant repository. For bugs, include your environment and steps to reproduce the issue.
 
 [Interline issues](https://github.com/eigenlux-ai/interline-translator/issues) · [Roamer issues](https://github.com/eigenlux-ai/roamer/issues) · [All repositories](https://github.com/orgs/eigenlux-ai/repositories)
+
+---
+
+<p align="center">
+  <sub><strong>Eigenlux · 烛玄</strong><br />
+  从纷繁中见清明，在使用中生长。</sub>
+</p>

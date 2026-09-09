@@ -8,39 +8,19 @@
 </p>
 
 <p align="center">
-  <a href="#the-north-star">Vision</a> ·
   <a href="#open-today">Open projects</a> ·
-  <a href="https://eigenlux-ai.github.io/interline-translator/">Interline website</a> ·
-  <a href="https://github.com/orgs/eigenlux-ai/repositories">Repositories</a>
+  <a href="#the-north-star">Our vision</a> ·
+  <a href="#behind-the-name">The name</a> ·
+  <a href="#join-the-work">Get involved</a>
 </p>
 
 ---
 
-### The north star
-
-**Eigenlux / 烛玄** begins with a personal question: what would it mean for an assistant to grow alongside a person, carrying continuity across their code, ideas, and digital life?
-
-Our long-term vision is a persistent, evolving personal assistant — a way to connect scattered context and make complex systems easier to understand. The ambition is continuity: learning from interaction, preserving useful context, and bringing clarity when it matters.
-
-> **The core project is still in development. Its source has not been published on GitHub, and it is not currently open source.** The vision above describes a direction, not a released product. The repositories below are the public projects available today.
-
-<sub>我们希望构建一个能够持续陪伴、逐渐成长的个人助手，让零散的数据、代码与灵感有迹可循，让复杂的问题逐渐清晰。</sub>
-
-### Three ideas to build by
-
-| | |
-| --- | --- |
-| **Continuity · 生生不息** | Let useful context accumulate, and let capabilities grow through interaction. |
-| **Simplicity · 虚室生白** | Keep the foundations spare. Make room for the signal by reducing unnecessary noise. |
-| **Clarity · 一灯即明** | Turn tangled information into understanding that helps someone take the next step. |
-
 ### Different boundaries, the same light
 
-A language you cannot read. A region setting that changes how an app behaves. A system too tangled to see through. Different boundaries can narrow what is visible or possible.
+A language you cannot read. An app that behaves differently across regions. A system too tangled to see through. We build tools to make those boundaries easier to understand and work across.
 
-Our projects share an impulse: **bring those boundaries into the light, and give people tools to work across them.** Interline addresses the language barrier; Roamer explores region-dependent app behavior; the core Eigenlux vision reaches toward continuity and understanding across a person's digital life.
-
-<sub>Interline 照亮语言的隔阂，Roamer 探索地域的边界，烛玄希望照亮复杂系统中的未知。方向不同，都是想让人看得更远一些。</sub>
+**Interline 照亮语言的隔阂，Roamer 探索地域的边界，烛玄希望照亮复杂系统中的未知。** 方向不同，都是想让人看得更远一些。
 
 ### Open today
 
@@ -52,11 +32,11 @@ Our projects share an impulse: **bring those boundaries into the light, and give
 
 **Read beyond language. Keep the original in sight.**
 
-An open-source Chrome extension for bilingual webpages, selection lookup, and in-place writing. Use the built-in translation option or connect your own AI provider.
+A Chrome extension for bilingual webpages, selection lookup, and in-place writing. Start with built-in translation or connect your own AI provider.
 
 [Website](https://eigenlux-ai.github.io/interline-translator/) · [Source & setup](https://github.com/eigenlux-ai/interline-translator#readme)
 
-<sub>Browser extension · Translation · Multilingual reading</sub>
+<sub>Chrome · Bilingual reading · Open source</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -65,27 +45,41 @@ An open-source Chrome extension for bilingual webpages, selection lookup, and in
 
 **Explore how apps behave across regions.**
 
-An Android developer tool for testing reported SIM home-country and carrier-name settings through Shizuku, with optional per-app locale changes. It does not change the physical SIM or network registration.
+An Android developer tool for testing reported SIM home-country and carrier-name settings, with optional per-app locale changes. Requires Android 12+ and Shizuku.
 
 [Source & setup](https://github.com/eigenlux-ai/roamer#readme) · [Requirements](https://github.com/eigenlux-ai/roamer#requirements)
 
-<sub>Android · Kotlin · Jetpack Compose · Developer tools</sub>
+<sub>Android · Regional testing · Open source</sub>
 
 </td>
 </tr>
 </table>
 
+### The north star
+
+**Eigenlux / 烛玄** asks: what would it mean for an assistant to grow alongside a person, carrying continuity across their code, ideas, and digital life?
+
+Our long-term vision is a persistent, evolving personal assistant that connects scattered context and helps make complex systems understandable.
+
+我们希望它能够持续陪伴、逐渐成长，让零散的数据、代码与灵感有迹可循，在需要的时候带来清晰的指引。
+
+> **In development:** the core Eigenlux / 烛玄 project has not yet been published on GitHub or released as open source.
+
+Three principles guide that direction:
+
+- **Continuity · 生生不息** — Let useful context accumulate, and capabilities grow through interaction.
+- **Simplicity · 虚室生白** — Keep the foundations spare and reduce unnecessary noise.
+- **Clarity · 一灯即明** — Turn tangled information into understanding that helps someone take the next step.
+
 ### Behind the name
 
-**Eigenlux** brings together *Eigen* — one's own, inherent — and *Lux* — light. **烛玄** carries the image of illuminating what is deep, hidden, or difficult to see.
-
-For us, the name is a design metaphor: **a light of your own, bringing clarity to complexity.**
+**Eigenlux** brings together *Eigen* — one's own, inherent — and *Lux* — light. **烛玄** evokes illuminating what is deep, hidden, or difficult to see. Together, they express **a light of your own**.
 
 ### Join the work
 
-Explore the public repositories, try the tools, and share ideas or reproducible bugs in the relevant project's issues. Contributions are welcome through each repository's own workflow.
+Try a public project, share an idea, report a reproducible bug, or contribute a fix. Each project's repository is the best place to start the conversation.
 
-[Interline issues](https://github.com/eigenlux-ai/interline-translator/issues) · [Roamer issues](https://github.com/eigenlux-ai/roamer/issues)
+[Interline issues](https://github.com/eigenlux-ai/interline-translator/issues) · [Roamer issues](https://github.com/eigenlux-ai/roamer/issues) · [All repositories](https://github.com/orgs/eigenlux-ai/repositories)
 
 ---
 

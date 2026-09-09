@@ -4,7 +4,7 @@
 
 <p align="center">
   Tools for translation, regional app testing, and personal computing.<br />
-  做一些自己需要，也希望对别人有用的工具。
+  Tools we need, built to be useful to others too.
 </p>
 
 <p align="center">
@@ -62,5 +62,6 @@ Questions, bug reports, and pull requests are welcome in the relevant repository
 
 <p align="center">
   <sub><strong>Eigenlux · 烛玄</strong><br />
-  从纷繁中见清明，在使用中生长。</sub>
+  从纷繁中见清明，在使用中生长。<br />
+  Clarity amid complexity. Growth through use.</sub>
 </p>
